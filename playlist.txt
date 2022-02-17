@@ -1,13 +1,11 @@
 SONG - ARTIST
 ==============
-<<<<<<< HEAD
 SOS -ABBA
 One of Us -ABBA
-<<<<<<< HEAD
 africa - musify
 HAHAHAH - musify
 
-=======
+==============
 
 Hello -Adele
 Get Lucky -Daft Punk
@@ -17,4 +15,10 @@ My sweet lord - Kane
 what is life - Undertaker
 is my life -Undertaker Singh
 YEAHH  - Undertaker Singh
->>>>>>> Undertaker
+
+
+Africa - Akon
+hey Africa - Akon
+Hate me - Morabi
+love me - Morabi
+
