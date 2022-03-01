@@ -1,5 +1,6 @@
 SONG - ARTIST
 ==============
+<<<<<<< HEAD
 SOS -ABBA
 One of Us -ABBA
 africa - musify
@@ -22,3 +23,4 @@ hey Africa - Akon
 Hate me - Morabi
 love me - Morabi
 
+==============  
